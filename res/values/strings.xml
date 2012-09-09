@@ -1,0 +1,64 @@
+<resources>
+
+    <string name="app_name">A Breif Introduction to HFAI</string>
+    <string name="menu_about">About</string>
+    <string name="menu_join">我要加入！</string>
+    <string name="title_activity_main">HFAI Intro</string>
+
+    <string-array name="titles">
+        <item>概况</item>
+        <item>技术</item>
+        <item>成就</item>
+        <item>加入！</item>
+    </string-array>
+
+    <string name="c1p1">华师附中AI机器人社(Automan Institute)，简称HFAI，是成立于2004年的、以发展技术为核心的社团。经过几届同学的努力建设，现在HFAI机器人社已经有成员20余人，也是华附占地面积最大的社团。</string>
+    <string name="c1cap1">HFAI的位置</string>
+    <string name="c1p2">HFAI经常参加学校组织的各式活动, 并展出人机足球大战等有趣的活动。我们每年也到校外参加各种比赛。从市赛、省赛，到全国电教馆比赛、全国科协、香港创协，甚至还有Robocup Junior世界赛——作为一名队员，只要你够实力，就可以过五关斩六将，代表学校、代表国家，直至杀进世界赛，载誉而归。</string>
+    <string name="c2p1">HFAI成员坚信，	通过使用机器、代码、智能，和自动化，我们可以创造解决问题的新方法，令自己的生活更美好。我们的社员广泛涉及各种领域；有各个社员分别能使用C，NXT-G，甚至PHP，Javascript，Objective-C，HTML/CSS等各种工具实现各种创意。</string>
+    <string name="c2p2">AI社现共有3个部门，分别是足球部、乐高部、研发部。</string>
+    <string name="c2p2.5">足球部</string>
+    <string name="c2p3">足球部是拼装、编程控制机器人参加足球比赛的部门。机器人也能踢足球？是的！</string>
+    <string name="c2cap1">调试足球场地</string>
+    <string name="c2p4">你需要自己用零件拼装机器，并编写程序，最后在与其他队伍的2V2足球赛中获胜。 从选取配件，到制作底盘，无一不是自己动手；有时甚至需要自己制作传感器、控制系统。至于编写程序，更是不可或缺的一部分。</string>
+    <string name="c2cap2">一台可全向行驶的进攻机</string>
+    <string name="c2p4.5">乐高部</string>
+    <string name="c2p5">乐高部可以说就是“玩Lego”的。通过使用简单的零件，我们足以完成复杂的任务。比如，搬运物品、利用传感器分辨物品，沿地上的黑线行走，不从桌面上掉落，诸如此类。</string>
+    <string name="c2cap3">一盘常见的Lego零件</string>
+    <string name="c2p6">Lego机器人也有相应的比赛，其中最典型的就是FLL，即First Lego League。围绕着每年的FLL主题——例如“气候变化”、“交通运输”——主办方在规定的赛场上列出了各式各样的任务。这不但需要你自己编写程序去完成，还需要自己设计机器并现场拼装。有的任务甚至需要与同组的其他队伍合作或者竞争，因此战术也显得尤为重要。</string>
+    <string name="c2cap4">一台成品Lego机器</string>
+    <string name="c2p7">任务中，你也许需要拼出机械臂搬运物品，但也可以选择直接打飞。也许你想用履带爬上台阶，但也能自己拼一段斜坡……比赛是集设计、制作、使用、改造于一体的体验，从中，你能学到很多。同时，你更是能加强与他人合作的能力。</string>
+    <string name="c2p7.5">研发部</string>
+    <string name="c2p8">研发是HFAI最幕后的活动，也是最具创意的部分。社员总有无数奇怪的设想，尽管看起来遥远，但总有几个能在研发部成员的手中变成现实。</string>
+    <string name="c2cap5">一个自动工作的微博帐号</string>
+    <string name="c2p9">我们的核心关键词是：技术！比如，前任社长曾计划过使用网页控制AI社门禁系统，并使用PHP构建出了从网络到门锁的桥梁。虽然这个计划没有获得学校的批准，最后只得作罢，但我们也收获了许多电子控制方面的宝贵的经验。</string>
+    <string name="c2cap6">社员为原本使用文字界面的单片机（右）编写了图形界面（左）</string>
+    <string name="c2p10">如果作为其他部门的社员还不能让你无穷的创艺得到发挥，不能施展出你的技术天赋，那么我们欢迎你加入研发部！</string>
+    <string name="c3p1">自从AI社成立以来，我们已经参加了无数大小赛事。这其中有广州市级的选拔赛，也有世界级的RCJ足球赛。每次紧张的赛前准备都能给我们带来无穷的乐趣。从无数大大小小的比赛中，我们不但收获了荣誉，也得到了宝贵的经验，领悟了团队精神，提升了动手能力、编程思维，磨练了自己的意志。</string>
+    <string name="c3p2">近期奖项的列表：</string>
+
+    <string-array name="c3p3_arr">
+        <item>2009年WRO中国区选拔赛 FLL工程挑战赛 二等奖</item>
+        <item>2010年WRO中国区选拔赛 初中组常规赛 一等奖</item>
+        <item>2010年WRO中国区选拔赛 高中组常规赛 二等奖</item>
+        <item>2010年第五届创协杯 高级组重量级足球赛 季军</item>
+        <item>2010年RCJ青少年足球世界杯 中国区选拔赛 重量级 三等奖</item>
+        <item>2011年RCJ青少年足球世界杯 广东省选拔赛 轻量级 二等奖</item>
+        <item>2011年RCJ青少年足球世界杯 广东省选拔赛 重量级 二等奖</item>
+        <item>2011年RCJ青少年足球世界杯 中国区选拔赛 重量级 二等奖</item>
+        <item>2011年WRO中国区选拔赛 初中组常规赛 第四名</item>
+        <item>2011年WRO中国区选拔赛 高中组常规赛 第二名</item>
+        <item>2011年第六届创协杯 高级组重量级足球赛 冠军</item>
+        <item>2012年RCJ青少年足球世界杯 中国区选拔赛 重量级 二等奖</item>
+        <item>2012年RCJ青少年足球世界杯 中国区选拔赛 轻量级DEMO赛 二等奖</item>
+        <item>2012年RCJ青少年足球世界杯 中国区选拔赛 最佳技术奖</item>
+        <item>2012年RCJ青少年足球世界杯 Open A League Individual Final 冠军</item>
+        <item>2012年RCJ青少年足球世界杯 Open A League Super Team Final 亚军</item>
+        <item>2012年WRO中国区选拔赛 初中组常规赛 二等奖</item>
+        <item>2012年WRO中国区选拔赛 足球赛 一等奖</item>
+        <item>2012年WRO中国区选拔赛 高中组常规赛 季军</item>
+    </string-array>
+
+    <string name="c3p4">To be continued&#8230; by YOU!</string>
+
+</resources>
