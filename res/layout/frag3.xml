@@ -46,6 +46,16 @@
             android:paddingBottom="20sp"
             />
         
+        <ImageView 
+            android:id="@+id/frag3_image1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="8dp"
+            android:adjustViewBounds="true"
+            android:scaleType="centerInside"
+            android:src="@drawable/tab3_pic1"
+            />
+        
     </LinearLayout>
 
 </ScrollView>

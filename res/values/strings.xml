@@ -59,7 +59,7 @@
         <item>2012年WRO中国区选拔赛 高中组常规赛 季军</item>
     </string-array>
 
-    <string name="c3p4">To be continued&#8230; by YOU!</string>
+    <string name="c3p4">To be continued&#8230; by YOU! 现在就点“我要加入！”</string>
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_about">About</string>
     <string name="about_text">This application is developed by @easoncxz.\n\nCredits to ActionBarSherlock.\n\nAlso, a good thank you to @cxqn for giving helpful suggestions.\n\nVisit ai.hsfz.info for more about HFAI.\n\np.s. You can find me at me@easoncxz.com</string>

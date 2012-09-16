@@ -801,7 +801,7 @@ containing a value of this type.
         public static final int tab3_pic1=0x7f02005f;
     }
     public static final class id {
-        public static final int about=0x7f04004b;
+        public static final int about=0x7f04004c;
         public static final int about_text=0x7f040010;
         public static final int abs__action_bar=0x7f040023;
         public static final int abs__action_bar_container=0x7f040022;
@@ -857,6 +857,7 @@ containing a value of this type.
         public static final int frag2_text7_5=0x7f04003d;
         public static final int frag2_text8=0x7f04003e;
         public static final int frag2_text9=0x7f040041;
+        public static final int frag3_image1=0x7f040049;
         public static final int frag3_text1=0x7f040045;
         public static final int frag3_text2=0x7f040046;
         public static final int homeAsUp=0x7f040006;
@@ -866,11 +867,11 @@ containing a value of this type.
         public static final int imageView4=0x7f04003a;
         public static final int imageView5=0x7f040042;
         public static final int imageView6=0x7f04003f;
-        public static final int join=0x7f04004a;
+        public static final int join=0x7f04004b;
         public static final int listFrame=0x7f040047;
         public static final int listMode=0x7f040002;
         public static final int normal=0x7f040001;
-        public static final int pager=0x7f040049;
+        public static final int pager=0x7f04004a;
         public static final int showCustom=0x7f040008;
         public static final int showHome=0x7f040005;
         public static final int showTitle=0x7f040007;
